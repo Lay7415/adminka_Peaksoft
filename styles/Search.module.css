@@ -1,0 +1,22 @@
+.searchContainer {
+    width: 680px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0px 0px 5px 0px #b5b4b483;
+    border-radius: 5px;
+}
+
+.inputField {
+    border-color: rgba(0, 0, 0, 0);
+    outline: none;
+    width: 92%;
+    margin-left: 10px;
+    font-size: 16px;
+    color: #444c6b;
+}
+
+.inputField::placeholder {
+    font-size: 16px;
+    color: #929292;
+}

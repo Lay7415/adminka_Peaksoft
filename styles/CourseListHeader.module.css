@@ -1,0 +1,19 @@
+.header {
+    display: grid;
+    grid-template-columns: 40px 40px 45px 125px 190px 205px 185px 260px 150px;
+    align-items: center;
+    padding-left: 20px;
+    border-bottom: 1px solid #c9c9c99c;
+    font-weight: 500;
+    width: 1280px;
+}
+
+.icon {
+    padding-top: 4px;
+}
+
+.checkbox {
+    width: 16px;
+    height: 16px;
+    border-radius: 0px;
+}

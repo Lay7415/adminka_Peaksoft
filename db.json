@@ -1,0 +1,401 @@
+{
+  "banners": [
+    {
+      "id": 0,
+      "bannerName": "Набор на Back-end и Front-end 1",
+      "course": "Фронт",
+      "dataCreating": "20.02.22",
+      "dataFinishing": "18.09.22",
+      "view": false,
+      "checked": true,
+      "compositionOfTheGroup": [
+        {
+          "id": 0,
+          "name": "Азамат",
+          "surname": "Азаматов",
+          "phoneNumber": "0810879145",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 1,
+          "name": "Иван",
+          "surname": "Иваныч",
+          "phoneNumber": "0617889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 2,
+          "name": "Семен",
+          "surname": "Семенов",
+          "phoneNumber": "0853889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 3,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 4,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "bannerName": "Набор на Back-end",
+      "course": "Фронт",
+      "dataCreating": "20.02.22",
+      "dataFinishing": "18.09.22",
+      "view": false,
+      "checked": false,
+      "compositionOfTheGroup": [
+        {
+          "id": 0,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 1,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 2,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 3,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 4,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "bannerName": "Набор на Back-end и Front-end",
+      "course": "Фронт",
+      "dataCreating": "20.02.22",
+      "dataFinishing": "18.09.22",
+      "view": false,
+      "checked": false,
+      "compositionOfTheGroup": [
+        {
+          "id": 0,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 1,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 2,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 3,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 4,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "bannerName": "Набор на Back-end и Front-end 1",
+      "course": "Фронт",
+      "dataCreating": "20.02.22",
+      "dataFinishing": "18.09.22",
+      "view": true,
+      "checked": false,
+      "compositionOfTheGroup": [
+        {
+          "id": 0,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 1,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 2,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 3,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 4,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "bannerName": "Набор на Back-end и Front-end 1",
+      "course": "Фронт",
+      "dataCreating": "20.02.22",
+      "dataFinishing": "18.09.22",
+      "view": true,
+      "checked": false,
+      "compositionOfTheGroup": [
+        {
+          "id": 0,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 1,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 2,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 3,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 4,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "bannerName": "Набор на Back-end и Front-end 1",
+      "course": "Фронт",
+      "dataCreating": "20.02.22",
+      "dataFinishing": "18.09.22",
+      "view": true,
+      "checked": false,
+      "compositionOfTheGroup": [
+        {
+          "id": 0,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 1,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 2,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 3,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        },
+        {
+          "id": 4,
+          "name": "Максат",
+          "surname": "Максатов",
+          "phoneNumber": "0710889143",
+          "dataOfBirth": "06.07.05",
+          "email": "maksatov7415@mail.ru",
+          "direction": "FRONT-END",
+          "format": "Офлайн",
+          "comment": "PeakSoft House - бул PeakSoft IT компаниясынын онлайн жана офлайн окутуу курстары. Биз талап кылынган Back-end (Java) жана Front-end (JavaScript),IT адистерин online - offline даярдайбыз. Нольдон баштап биринчи жумуш күнүнө чейин."
+        }
+      ]
+    }
+  ],
+  "applications": []
+}
